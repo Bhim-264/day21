@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  margin: 20px auto;
+  background-color: #fff;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.card h2 {
+  margin: 12px 0 8px;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.card p {
+  color: #666;
+}
